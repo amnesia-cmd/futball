@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background: linear-gradient(to top, #0b3d2e, #0f6b4f);
+  font-family: Arial, sans-serif;
+}
+
+#ui {
+  position: absolute;
+  top: 20px;
+  width: 100%;
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  text-shadow: 0 0 10px black;
+  pointer-events: none;
+}
